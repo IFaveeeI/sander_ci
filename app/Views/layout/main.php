@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="<? base_url() ?>css/bootstrap.min.css">
     <link rel="stylesheet" href="<? base_url() ?>public/css/bootstrap.min.css">
 
-    <link href="https://fonts.google.com/css2?family=Material+Symbols+Outlined">
+    <link href="https://fonts.google.com/css2?family=Material+Symbols+Outlined" rel="stylesheet" />
 </head>
 
 <body>
