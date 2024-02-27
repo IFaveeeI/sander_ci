@@ -8,3 +8,4 @@ use CodeIgniter\Router\RouteCollection;
 $routes->get('/', 'Home::index');
 
 $routes->get('/user/add','UserController::adduser');
+$routes->post('/storeUser','USerController::adduser');
